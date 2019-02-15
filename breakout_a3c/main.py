@@ -101,7 +101,7 @@ if __name__ == '__main__':
                 if 'partial' in args.ft_setting:
                     shared_model.init_conv_lstm()
 
-            print("model loaded successfully")
+            print("model was loaded successfully")
 
     processes = []
 

@@ -9,6 +9,6 @@
 [RoadFighter](https://youtu.be/KCGTrQi6Ogo)
 
 ## Installation
-- The code was tested on Ubuntu 16.04
+- The code was tested on Ubuntu 16.04 with Python 3.6
 - Install packages by typing the command: `pip install -r requirements.txt`.
 - For Road Fighter, clone and install the repo: https://github.com/ShaniGam/retro

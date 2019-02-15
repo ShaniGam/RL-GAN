@@ -1,0 +1,5 @@
+atari-py==0.1.1
+gym==0.10.5
+numpy==1.15.0
+torch==0.4.0
+torchvision==0.2.1

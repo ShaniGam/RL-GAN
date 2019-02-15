@@ -84,3 +84,7 @@ python -m roadfighter_a2c.main_imitation --load --gan-dir roadfighter-lvl2-kl01 
 
 ### Acknowledgments
 The code was written by Shani Gamrian and is based on the repositories: [pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c), [pytorch-a2c](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr), [UNIT](https://github.com/mingyuliutw/UNIT)
+
+### TO-DO
+- Add links for pretrained models.
+- Create videos.

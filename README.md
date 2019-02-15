@@ -1,4 +1,8 @@
 # RL-GAN: Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation
+RL-GAN is an official implementation of the paper: Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation.
+
+The code was written by Shani Gamrian and is based on the repositories: [pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c), [pytorch-a2c](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr), [UNIT](https://github.com/mingyuliutw/UNIT)
+
 ## Paper
 [Shani Gamrian, Yoav Goldberg, "Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation"](https://arxiv.org/abs/1806.07377)
 
